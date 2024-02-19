@@ -2,7 +2,7 @@
 
 My name is Carlos Mastrangelo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch)](https://skillicons.dev)
 
 <!--
 **cmastrangelo/cmastrangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
