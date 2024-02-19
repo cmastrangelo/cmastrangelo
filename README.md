@@ -3,6 +3,7 @@
 My name is Carlos Mastrangelo
 
 Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,pytorch,anaconda,docker,django,aws,azure,cpp,linux,blender,arduino)](https://skillicons.dev)
 
 <!--
