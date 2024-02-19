@@ -6,7 +6,7 @@ Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,pytorch,anaconda,docker,django,aws,azure,cpp,linux,blender,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,pytorch,anaconda,docker,django,aws,azure,linux,blender,arduino)](https://skillicons.dev)
 
 <!--
 **cmastrangelo/cmastrangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
