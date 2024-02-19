@@ -4,7 +4,7 @@ My name is Carlos Mastrangelo
 
 Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,solidity)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,pytorch,anaconda,docker,django,aws,azure,linux,blender,arduino)](https://skillicons.dev)
 
