@@ -2,7 +2,7 @@
 
 My name is Carlos Mastrangelo
 
-I'm currently working on Deep Neural Networks and Quant applications.
+I'm currently working on deep neural networks and quant applications.
 
 These are the tools I work most often with:
 
