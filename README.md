@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Carlos Mastrangelo
+
 Based in Los Angeles, California
 
 I'm currently working on deep neural networks and quant applications.
