@@ -1,30 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Carlos Mastrangelo
+## About
 
-Based in Los Angeles, California
+My name is Carlos Mastrangelo. I'm from Brazil and currently based in Los Angeles, California. I specialize in working with deep neural networks, quant, and DeFi (Decentralized Finance) applications.
 
-I'm currently working on deep neural networks, quant and defi applications.
+## Tools
 
-These are the tools I work most often with:
+I frequently work with the following tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,docker,kubernetes,django)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=py) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Django](https://skillicons.dev/icons?i=django)
 
-Connect with me here:
+## Connect With Me
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,discord,twitter,instagram)](https://skillicons.dev)
+Feel free to connect with me through the following platforms:
 
-<!--
-**cmastrangelo/cmastrangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com) [![Discord](https://skillicons.dev/icons?i=discord)](YourDiscordLinkHere) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourtwitterhandle) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/yourinstagramhandle)
