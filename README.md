@@ -14,4 +14,4 @@ I frequently work with the following tools:
 
 Feel free to connect with me through the following platforms:
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com) [![Discord](https://skillicons.dev/icons?i=discord)](YourDiscordLinkHere) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourtwitterhandle) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/yourinstagramhandle)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:carlos.mastrangelo@gmail.com) [![Discord](https://skillicons.dev/icons?i=discord)]() [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/itsaiwa) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cmastrangelo)
