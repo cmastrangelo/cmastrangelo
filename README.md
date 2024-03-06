@@ -14,4 +14,4 @@ I frequently work with the following tools:
 
 Feel free to connect with me through the following platforms:
 
-[![Discord](https://skillicons.dev/icons?i=discord)]() [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/itsaiwa) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/los.mastrangelo)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/itsaiwa) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/los.mastrangelo) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/cmastrangelo) 
