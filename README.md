@@ -8,9 +8,7 @@ I'm currently working on deep neural networks and quant applications.
 
 These are the tools I work most often with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,solidity)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,pytorch,anaconda,docker,kubernetes,django,aws,azure,linux,blender,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,docker,kubernetes,django,aws)](https://skillicons.dev)
 
 Socials:
 
