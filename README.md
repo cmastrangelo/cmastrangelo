@@ -8,11 +8,11 @@ I'm currently working on deep neural networks and quant applications.
 
 These are the tools I work most often with:
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,docker,kubernetes,django,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,docker,kubernetes,django)](https://skillicons.dev)
 
 Socials:
 
-[![My Skills](https://skillicons.dev/icons?i=discord,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,twitter,instagram)](https://skillicons.dev)
 
 <!--
 **cmastrangelo/cmastrangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
