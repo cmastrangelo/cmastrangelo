@@ -2,7 +2,7 @@
 
 ## About
 
-My name is Carlos Mastrangelo. I'm from Brazil and currently based in Los Angeles, California. I specialize in working with deep neural networks, quant, and DeFi (Decentralized Finance) applications.
+My name is Carlos Mastrangelo. I'm from Brazil and currently based in Los Angeles, California. I specialize in working with deep neural networks, quant, and DeFi applications.
 
 ## Tools
 
