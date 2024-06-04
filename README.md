@@ -8,7 +8,7 @@ My name is Carlos Mastrangelo. I'm from Brazil and currently based in Los Angele
 
 Tools I like to use:
 
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Pytorch](https://skillicons.dev/icons?i=py)](https://pytorch.org/) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com) [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Pytorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com) [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 
 ## Connect With Me
 
